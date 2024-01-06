@@ -1,7 +1,7 @@
-# Phoenix_SC2: StarCraft 2 Replay Analysis Tool
+# Phoenix SC2: StarCraft 2 Replay Analysis Tool
 
 ## Overview
-Phoenix_SC2 is a Python-based tool designed to parse and analyze StarCraft 2 replay files. It aims to provide high-quality insights into gameplay, making replay analysis both accessible and user-friendly. This tool is perfect for everyone, from casual gamers to serious strategists looking to improve their SC2 skills.
+Phoenix SC2 is a Python-based tool designed to parse and analyze StarCraft 2 replay files. It aims to provide high-quality insights into gameplay, making replay analysis both accessible and user-friendly. This tool is perfect for everyone, from casual gamers to serious strategists looking to improve their SC2 skills.
 
 ## Features
 - **Replay Parsing:** Extract detailed data from SC2 replay files.
@@ -9,7 +9,7 @@ Phoenix_SC2 is a Python-based tool designed to parse and analyze StarCraft 2 rep
 - **User-Friendly Interface:** Easy-to-navigate for users of all skill levels.
 
 ## Installation
-[Instructions on how to install Phoenix_SC2]
+[Instructions on how to install Phoenix SC2]
 
 ## Usage
 [Simple examples of how to use the tool, including code snippets]
