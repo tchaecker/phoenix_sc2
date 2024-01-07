@@ -17,7 +17,9 @@ Hey there! Welcome to the no-sweat, fun-filled ride to installing Git on Windows
   - **Scalar:** If you're juggling a mammoth project, Scalar is your speed demon. Smaller projects? Skip it.
 
 ## Choose the Default Editor for Git
-- Git's gonna ask for a text editor. Vim's on the table, but if it's not your jam, pick another like Notepad++ or Visual Studio Code. It's your editor sundae—top it as you like!
+- When setting up Git, you'll need to pick a default text editor. While Git suggests Vim, it might not be everyone's cup of tea, especially if you're just starting out.
+- We recommend using Visual Studio Code (VS Code), a versatile and user-friendly editor that's great for both beginners and pros. It's packed with features to make coding a breeze, like built-in Git support, intelligent code completion, and an array of handy extensions. Link: https://code.visualstudio.com/
+- Don't worry if you're new to VS Code; we'll walk you through setting it up for Python development in our guides. And if you're already a fan, you know you're in for a smooth ride!
 
 ## Choose the Initial Branch Name
 - Here's where you pick a name for the first branch in your repositories. "main" is the fresh "master," waving hello to an inclusive future in code land.
