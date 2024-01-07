@@ -1,7 +1,7 @@
 # Step-by-Step Guide to Installing Git on Windows 11 v1.0
 
 ## Introduction
-Hey there! Welcome to the no-sweat, fun-filled ride to installing Git on Windows 11. Whether you're a newbie or a seasoned pro, we've got your back. So, let's get the party started!
+Hey there! Welcome to the no-sweat, fun-filled ride to installing Git on Windows 11. Whether you're a newbie or a seasoned pro, we've got your back. So, let's get the party started! This guide is designed for Git 2.43.0 and it's version 1.0 (Release).
 
 ## Download the Git for Windows Installer
 - Scoot over to [git-scm.com](https://git-scm.com/) and hit that "Download for Windows" button. It's the big green one—you can't miss it!
