@@ -16,6 +16,27 @@ Phoenix SC2 is a Python-based tool designed to parse and analyze StarCraft 2 rep
 ## Usage
 [Simple examples of how to use the tool, including code snippets]
 
+### Setting Up Visual Studio Code for Python Development
+
+Visual Studio Code (VS Code) is a free, open-source editor that's highly customizable and perfect for Python development. To get started:
+
+1. **Download and Install VS Code:**
+   - Download VS Code from [here](https://code.visualstudio.com/).
+   - Follow the installation instructions for your operating system.
+
+2. **Install the Python Extension:**
+   - Open VS Code, go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+   - Search for 'Python' and install the extension by Microsoft.
+
+3. **Select a Python Interpreter:**
+   - Once the Python extension is installed, open a Python file.
+   - You'll be prompted to select a Python interpreter. Choose one that suits your project (you might need to install Python first).
+
+For a comprehensive guide on using VS Code for Python development, check out the [official documentation](https://code.visualstudio.com/docs/languages/python).
+
+If you're new to VS Code, this [introductory video](https://code.visualstudio.com/docs/getstarted/introvideos) may also be helpful.
+
+
 ## Contributing
 We welcome contributions! Please read our Contributing Guidelines for more information on how to get involved.
 
