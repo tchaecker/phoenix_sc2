@@ -11,6 +11,7 @@ Phoenix SC2 is a Python-based tool designed to parse and analyze StarCraft 2 rep
 ## Installation
 [Instructions on how to install Phoenix SC2]
 - **Installing Git on Windows 11:** Have a look at our [Step-by-Step Guide to Installing Git on Windows 11](/docs/Step-by-Step%20Guide%20to%20Installing%20Git%20on%20Windows%2011.md).
+- We recommend using Visual Studio Code (VS Code) as text-editor for inexperienced contributors because we use this editor in guides, tutorials, videos and screenshots. Link: https://code.visualstudio.com/
 
 ## Usage
 [Simple examples of how to use the tool, including code snippets]
