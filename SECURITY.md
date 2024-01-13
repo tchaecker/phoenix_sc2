@@ -2,17 +2,14 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+As no code has been written, yet, it is unlikely that Phoenix SC2 has security issues. This is why we marked all versions lower than 1.0 as secure. This might change.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| < 1.0   | white_check_mark:  |
+| < 1.0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+For now please report vulnerabilities per E-Mail to tc.haecker@gmail.com
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Once more people work on Phoenix SC2 we intend to improve the reporting.
